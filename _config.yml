@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3385575
+  lightness: 0.3509772
+  brandStrength: 0.8718593
+  rhythmicContrast: 0.5696691
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.2825683
+name: 6 Hickory Drive
